@@ -1,0 +1,19 @@
+{
+  "detailedform" :{
+    "name": "Hasbi",
+    "email": "Hasbi@gmail.com",
+    "phone": " 0822222222",
+    "city" : "Bengkulu",
+    "address" : "Jl. Ks tubun",
+    "postalCode" : "328882"
+  },
+
+  "unDetailedform" :{
+    "name": "Hasbi",
+    "email": "",
+    "phone": "0822222222",
+    "city" : "Bengkulu",
+    "address" : "Jl. Ks tubun",
+    "postalCode" : "328882"
+  }
+}
